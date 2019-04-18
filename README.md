@@ -39,7 +39,7 @@ Semilla 51:
 * ![](https://github.com/carloskl12/genMaps/blob/master/imagenes/semilla51.png)
 
 ## Trabajos futuros
-Si la inspiración y los tiempos coinciden, espero que a futuro:
+Si la inspiración y los tiempos coinciden, espero que a futuro el programa permita:
 * Generar grillas utilizando funciones de distribución de probabilidad variadas
 * Crear filtros par mejorar los relieves
 * Crear la superficie sobre un planeta
