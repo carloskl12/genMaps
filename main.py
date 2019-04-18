@@ -32,7 +32,7 @@ class MyApp(wx.Frame):
     self.btRefrescar = wx.Button(self.pBotones, label='Refrescar')
     self.semillaInput= CampoCtrl(self.pBotones, label='Semilla:',sizeInput=(pBtWidth-16,-1))
     self.octavasInput= CampoCtrl(self.pBotones, label='Octavas:',sizeInput=(pBtWidth-16,-1))
-    self.periodicInput= wx.CheckBox(self.pBotones,label='Mapa periodico')
+    self.periodicInput= wx.CheckBox(self.pBotones,label='Mapa periódico')
     
     vSizer= wx.BoxSizer(wx.VERTICAL)
     self.pBotones.SetSizer(vSizer)
